@@ -34,8 +34,6 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Java+Developer;Spring+Boot+Enthusiast;Always+Learning)
 
-
-![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
 <p>
   <img src="https://skillicons.dev/icons?i=java,spring,mysql,git,github,c,cpp,html,css,javascript" />
 </p>
