@@ -6,6 +6,8 @@
 ---
 
 ## 🧠 Skills
+- HTML, CSS, Javascript, Bootstrap
+- C, Cpp
 - Java, JDBC, Servlets
 - Spring Boot, Hibernate
 - MySQL
@@ -15,7 +17,9 @@
 
 ## 📌 Projects
 - Student Management System
-- JWT Authentication System
+- Saloon Management System
+- Student-Teacher Communication Module
+- Online Shopping Website
 
 ---
 
@@ -33,7 +37,7 @@
 
 ![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,git,github" />
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,git,github,c,cpp,html,css,javascript" />
 </p>
 
 ## 🌱 Currently Learning
