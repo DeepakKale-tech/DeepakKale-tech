@@ -17,7 +17,7 @@
 - 💻 Java Developer focused on backend development  
 - ⚙️ Working with **Spring Boot, Hibernate, REST APIs, MySQL**  
 - 🚀 Currently learning **Microservices** and **Spring Security + JWT**  
-- 📫 Reach me at: **your-email@example.com**
+- 📫 Reach me at: **kaledeepak4646@gmail.com**
 
 ---
 
@@ -55,7 +55,7 @@
 - 🧑‍🏫 **Student-Teacher Communication Module** – Messaging and announcements platform.
 - 🛒 **Online Shopping Website** – E-commerce app with product and order flow.
 
-> Tip: Add links to these repos for a stronger profile.
+
 
 ---
 
