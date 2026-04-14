@@ -47,7 +47,6 @@
 
 ## 📊 GitHub Analytics
 
-![Stats](https://github-readme-stats.vercel.app/api?username=DeepakKale-tech&show_icons=true)
 <p align="center">
   <img height="165" src="https://streak-stats.demolab.com?user=DeepakKale-tech&theme=tokyonight&hide_border=true" />
 </p>
